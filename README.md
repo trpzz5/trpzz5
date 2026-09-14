@@ -1,44 +1,90 @@
 <div align="center">
 
-# ⚡ TEJAS POOJARY
+<img src="./assets/header-banner.png" width="100%" alt="Welcome to Tejas Poojary's GitHub" />
 
-### `VLSI • Embedded Systems • AI/ML • Robotics`
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Building+things+at+the+intersection+of+hardware%2C+AI+%26+code.;Designing+logic.+Training+models.+Building+robots.;Turning+ideas+into+real-world+systems.;Hardware+%C3%97+AI+%C3%97+Code+%3D+Possibilities." alt="Typing SVG" />
-
-<br>
-
-[![GitHub followers](https://img.shields.io/github/followers/trpzz5?style=for-the-badge&logo=github&label=Followers)](https://github.com/trpzz5)
-[![Profile Views](https://komarev.com/ghpvc/?username=trpzz5&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)](https://github.com/trpzz5)
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://www.pinterest.com/">
+<img src="https://img.shields.io/badge/PINTEREST-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+</a>
+&nbsp;
+<a href="mailto:tejaspoojary2004@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+# ⚙️ Technologies
+
+</div>
 
 <div align="center">
 
+![VLSI](https://img.shields.io/badge/VLSI-111827?style=for-the-badge&logoColor=white)
+![Embedded Systems](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-111827?style=for-the-badge&logo=arduino&logoColor=00979D)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Verilog](https://img.shields.io/badge/VERILOG-111827?style=for-the-badge&logoColor=white)
+
+![AI/ML](https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Robotics](https://img.shields.io/badge/ROBOTICS-111827?style=for-the-badge&logo=robotframework&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-111827?style=for-the-badge&logo=internetofthings&logoColor=00C6FF)
+![Raspberry Pi](https://img.shields.io/badge/RPI-111827?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
+![MATLAB](https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-111827?style=for-the-badge&logo=git&logoColor=F05032)
+
+![Linux](https://img.shields.io/badge/LINUX-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
+![VS Code](https://img.shields.io/badge/VS%20CODE-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
+![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![MySQL](https://img.shields.io/badge/MYSQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+
+</div>
+
+---
+
+<div align="center">
+
+# 📈 Statistics
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=trpzz5&bg_color=0d1117&color=9ecbff&line=79c0ff&point=ffffff&area=true&hide_border=false&custom_title=Tejas%20Poojary%27s%20Contribution%20Graph" width="95%" alt="Tejas Poojary's Contribution Graph" />
+
+</div>
+
+---
+
+<div align="center">
+
+# 👨‍💻 About Me
+
+</div>
+
 <table>
 <tr>
-<td width="42%" align="center">
+<td width="43%" align="center" valign="middle">
 
-<img src="./assets/about-me-toon.jpeg" width="360" alt="Tejas Poojary - Toon Avatar" />
+<img src="./assets/about-me-toon.jpeg" width="330" alt="Tejas Poojary Toon Avatar" />
 
 </td>
-<td width="58%" valign="middle">
+<td width="57%" valign="middle">
 
-### Hey! I'm **Tejas Poojary** 👋
+Hello! My name is **Tejas Poojary**, and I am a **VLSI Engineering student**.
 
-🎓 **VLSI Engineering Student**
+I am passionate about **designing digital systems & embedded hardware**, building **intelligent robots & IoT systems**, exploring **AI/ML and Edge Intelligence**, and turning ideas into real-world systems.
 
-I'm passionate about building things at the intersection of **hardware, AI & code**.
+💻 I code with **Verilog, Python & C/C++**.
 
-⚡ Designing **digital systems & embedded hardware**  
-🤖 Building **intelligent robots & IoT systems**  
-🧠 Exploring **AI/ML and Edge Intelligence**  
-💻 Coding with **Verilog, Python & C/C++**  
-🔧 Turning **ideas → prototypes → working systems**
+🔧 I enjoy turning **ideas → prototypes → working systems**.
 
 <br>
 
@@ -48,98 +94,21 @@ I'm passionate about building things at the intersection of **hardware, AI & cod
 </tr>
 </table>
 
-</div>
-
 ---
-
-## 🛠️ Technologies
 
 <div align="center">
 
-### ⚡ Core Technologies
+# 🎯 Hobbies & Goals
 
-![Verilog](https://img.shields.io/badge/Verilog-111827?style=for-the-badge&logo=verilog&logoColor=white)
-![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-111827?style=for-the-badge&logo=c&logoColor=A8B9CC)
-![C++](https://img.shields.io/badge/C%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-
-### 🔧 Systems & Engineering
-
-![VLSI](https://img.shields.io/badge/VLSI-111827?style=for-the-badge&logo=chip&logoColor=00C6FF)
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-111827?style=for-the-badge&logo=arduino&logoColor=00979D)
-![IoT](https://img.shields.io/badge/IoT-111827?style=for-the-badge&logo=internetofthings&logoColor=00C6FF)
-![Robotics](https://img.shields.io/badge/Robotics-111827?style=for-the-badge&logo=robot&logoColor=00C6FF)
-
-### 🧠 Intelligence
-
-![AI/ML](https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Edge Intelligence](https://img.shields.io/badge/Edge%20Intelligence-111827?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
-
-</div>
-
----
-
-## 🚀 What I'm Building
-
-<div align="center">
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   ⚡ DIGITAL DESIGN                                         │
-│   Designing logic and exploring VLSI systems                │
-│                                                             │
-│   🔧 EMBEDDED HARDWARE                                      │
-│   Turning concepts into real-world hardware prototypes      │
-│                                                             │
-│   🤖 ROBOTICS & IoT                                         │
-│   Building intelligent connected systems                   │
-│                                                             │
-│   🧠 AI / ML                                                │
-│   Exploring intelligent and edge-based applications         │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=trpzz5&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trpzz5&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=trpzz5&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-</div>
-
----
-
-## 🎯 Focus & Goals
-
-<div align="center">
-
-| ⚡ VLSI | 🔧 Embedded | 🧠 AI/ML | 🤖 Robotics |
-|:---:|:---:|:---:|:---:|
-| Digital Systems | Hardware | Edge Intelligence | Intelligent Systems |
-
-</div>
+**🎓 VLSI Engineering** • **⚡ Embedded Systems** • **🧠 AI/ML** • **🤖 Robotics**
 
 <br>
 
-<div align="center">
-
-**Building things at the intersection of hardware, AI & code.**
+> *“Learn. Build. Break. Improve. Repeat.”*
 
 <br>
 
-`Hardware × AI × Code = Possibilities`
+### ⚡ Hardware × AI × Code = Possibilities
 
 </div>
 
@@ -147,10 +116,6 @@ I'm passionate about building things at the intersection of **hardware, AI & cod
 
 <div align="center">
 
-### ⚡ Learn. Build. Break. Improve. Repeat.
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=100&section=footer" width="100%"/>
 
 </div>
