@@ -6,11 +6,6 @@
 
 <a href="YOUR_LINKEDIN_URL">
   <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-&nbsp;
-<a href="YOUR_PINTEREST_URL">
-  <img src="https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
-</a>
 &nbsp;
 <a href="mailto:YOUR_EMAIL@gmail.com">
   <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
@@ -61,16 +56,6 @@
 
 <div align="center">
 
-# 📊 Statistics
-
-<br>
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=trpzz5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9"
-  height="165"
-  alt="Tejas Poojary's GitHub Stats"
-/>
-
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=trpzz5&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=58A6FF&currStreakLabel=58A6FF"
   height="165"
@@ -85,44 +70,35 @@
 
 <div align="center">
 
-# 👨‍💻 About Me
+<!-- ========================================================= -->
+<!--                         ABOUT ME                           -->
+<!-- ========================================================= -->
 
-</div>
+<h2 align="center">👨‍💻 About Me</h2>
 
-<table>
+<hr>
+
+<table align="center">
 <tr>
-<td width="42%" align="center">
+<td width="40%" align="center">
 
-<!-- IMPORTANT:
-     Your toon image should ideally have a TRANSPARENT background.
-     File location: assets/about-me-toon.png
--->
-
-<img
-  src="./assets/about-me-toon.png"
-  width="280"
-  alt="Tejas Poojary Toon Avatar"
-/>
+<img src="./assets/about-me-toonbg.png"
+     width="260"
+     alt="Tejas Poojary Toon Avatar"/>
 
 </td>
 
-<td width="58%">
+<td width="60%">
 
-### Hello! I'm **Tejas Poojary** 👋
+### 👋 Hey, I'm Tejas Poojary!
 
-I am a **VLSI Engineering student** passionate about designing
-**digital systems and embedded hardware**.
+I am a **VLSI Engineering student** passionate about building things at the intersection of **hardware, AI, and code**.
 
-I enjoy building **intelligent robots and IoT systems**, exploring
-**AI/ML and Edge Intelligence**, and turning ideas into
-real-world systems.
-
-<br>
-
-🔹 **I code with:** Verilog, Python & C/C++  
-🔹 **I build:** Embedded and hardware-based systems  
-🔹 **I explore:** AI/ML, Robotics and Edge Intelligence  
-🔹 **My goal:** Turn ideas → prototypes → working systems  
+- ⚡ Designing digital systems & embedded hardware
+- 🤖 Building intelligent robots & IoT systems
+- 🧠 Exploring AI/ML and Edge Intelligence
+- 💻 Coding with Verilog, Python & C/C++
+- 🔧 Turning ideas → prototypes → working systems
 
 <br>
 
@@ -131,12 +107,6 @@ real-world systems.
 </td>
 </tr>
 </table>
-
-<br>
-
----
-
-<div align="center">
 
 # 🎯 Hobbies & Goals
 
