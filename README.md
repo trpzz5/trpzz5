@@ -1,22 +1,24 @@
 <div align="center">
 
-<img src="./assets/header-banner.png" width="100%" alt="Welcome to Tejas Poojary's GitHub" />
+<img src="./assets/header-banner.png" width="100%" alt="Welcome to Tejas Poojary's GitHub"/>
 
 <br><br>
 
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
-<a href="https://www.pinterest.com/">
-<img src="https://img.shields.io/badge/PINTEREST-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
+<a href="YOUR_PINTEREST_URL">
+  <img src="https://img.shields.io/badge/PINTEREST-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest"/>
 </a>
 &nbsp;
-<a href="mailto:tejaspoojary2004@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
+
+<br>
 
 ---
 
@@ -24,47 +26,103 @@
 
 # ⚙️ Technologies
 
+<br>
+
+<img src="https://img.shields.io/badge/VLSI-0D47A1?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMBEDDED_SYSTEMS-083344?style=for-the-badge&logo=arduino&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/C%2FC%2B%2B-12355B?style=for-the-badge&logo=cplusplus&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/PYTHON-1E3A5F?style=for-the-badge&logo=python&logoColor=FFD43B"/>
+<img src="https://img.shields.io/badge/JAVA-1B365D?style=for-the-badge&logo=openjdk&logoColor=FF8A65"/>
+<img src="https://img.shields.io/badge/VERILOG-162033?style=for-the-badge&logoColor=00BFFF"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%2FML-102A43?style=for-the-badge&logo=brain&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/ROBOTICS-172554?style=for-the-badge&logo=robot&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/IOT-0F2942?style=for-the-badge&logo=internetofthings&logoColor=00D9FF"/>
+<img src="https://img.shields.io/badge/RPI-1F2937?style=for-the-badge&logo=raspberrypi&logoColor=E91E63"/>
+<img src="https://img.shields.io/badge/MATLAB-1A365D?style=for-the-badge&logoColor=FF9800"/>
+<img src="https://img.shields.io/badge/GIT-162033?style=for-the-badge&logo=git&logoColor=F05032"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/LINUX-111827?style=for-the-badge&logo=linux&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/VS_CODE-102A43?style=for-the-badge&logo=visualstudiocode&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/POSTGRESQL-172554?style=for-the-badge&logo=postgresql&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/MYSQL-102A43?style=for-the-badge&logo=mysql&logoColor=00BFFF"/>
+<img src="https://img.shields.io/badge/HTML5-172554?style=for-the-badge&logo=html5&logoColor=FF5722"/>
+<img src="https://img.shields.io/badge/CSS3-102A43?style=for-the-badge&logo=css3&logoColor=00BFFF"/>
+
 </div>
+
+<br>
+
+---
 
 <div align="center">
 
-![VLSI](https://img.shields.io/badge/VLSI-111827?style=for-the-badge&logoColor=white)
-![Embedded Systems](https://img.shields.io/badge/EMBEDDED%20SYSTEMS-111827?style=for-the-badge&logo=arduino&logoColor=00979D)
-![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-111827?style=for-the-badge&logo=cplusplus&logoColor=00599C)
-![Python](https://img.shields.io/badge/PYTHON-111827?style=for-the-badge&logo=python&logoColor=3776AB)
-![Java](https://img.shields.io/badge/JAVA-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Verilog](https://img.shields.io/badge/VERILOG-111827?style=for-the-badge&logoColor=white)
+# 📊 Statistics
 
-![AI/ML](https://img.shields.io/badge/AI%2FML-111827?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Robotics](https://img.shields.io/badge/ROBOTICS-111827?style=for-the-badge&logo=robotframework&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-111827?style=for-the-badge&logo=internetofthings&logoColor=00C6FF)
-![Raspberry Pi](https://img.shields.io/badge/RPI-111827?style=for-the-badge&logo=raspberrypi&logoColor=C51A4A)
-![MATLAB](https://img.shields.io/badge/MATLAB-111827?style=for-the-badge&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-111827?style=for-the-badge&logo=git&logoColor=F05032)
+<br>
 
-![Linux](https://img.shields.io/badge/LINUX-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![VS Code](https://img.shields.io/badge/VS%20CODE-111827?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![MySQL](https://img.shields.io/badge/MYSQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+<img
+  src="https://github-readme-stats.vercel.app/api?username=trpzz5&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=00D9FF&text_color=C9D1D9"
+  height="165"
+  alt="Tejas Poojary's GitHub Stats"
+/>
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=trpzz5&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=58A6FF&currStreakLabel=58A6FF"
+  height="165"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+<br>
+
+---
+
+<div align="center">
+
+# 👨‍💻 About Me
+
+</div>
 
 <table>
 <tr>
-<td width="43%" align="center" valign="middle">
+<td width="42%" align="center">
 
-<img src="./assets/about-me-toon.png" width="330" alt="Tejas Poojary Toon Avatar" />
+<!-- IMPORTANT:
+     Your toon image should ideally have a TRANSPARENT background.
+     File location: assets/about-me-toon.png
+-->
+
+<img
+  src="./assets/about-me-toon.png"
+  width="280"
+  alt="Tejas Poojary Toon Avatar"
+/>
 
 </td>
-<td width="57%" valign="middle">
 
-Hello! My name is **Tejas Poojary**, and I am a **VLSI Engineering student**.
+<td width="58%">
 
-I am passionate about **designing digital systems & embedded hardware**, building **intelligent robots & IoT systems**, exploring **AI/ML and Edge Intelligence**, and turning ideas into real-world systems.
+### Hello! I'm **Tejas Poojary** 👋
 
-💻 I code with **Verilog, Python & C/C++**.
+I am a **VLSI Engineering student** passionate about designing
+**digital systems and embedded hardware**.
 
-🔧 I enjoy turning **ideas → prototypes → working systems**.
+I enjoy building **intelligent robots and IoT systems**, exploring
+**AI/ML and Edge Intelligence**, and turning ideas into
+real-world systems.
+
+<br>
+
+🔹 **I code with:** Verilog, Python & C/C++  
+🔹 **I build:** Embedded and hardware-based systems  
+🔹 **I explore:** AI/ML, Robotics and Edge Intelligence  
+🔹 **My goal:** Turn ideas → prototypes → working systems  
 
 <br>
 
@@ -74,17 +132,21 @@ I am passionate about **designing digital systems & embedded hardware**, buildin
 </tr>
 </table>
 
+<br>
+
 ---
 
 <div align="center">
 
 # 🎯 Hobbies & Goals
 
-**🎓 VLSI Engineering** • **⚡ Embedded Systems** • **🧠 AI/ML** • **🤖 Robotics**
+<br>
+
+### ⚡ VLSI Engineering &nbsp;•&nbsp; 🤖 Embedded Systems &nbsp;•&nbsp; 🧠 AI/ML &nbsp;•&nbsp; 🦾 Robotics
 
 <br>
 
-> *“Learn. Build. Break. Improve. Repeat.”*
+> *Turning ideas into real-world systems.*
 
 <br>
 
@@ -92,10 +154,12 @@ I am passionate about **designing digital systems & embedded hardware**, buildin
 
 </div>
 
+<br>
+
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:00c6ff&height=100&section=footer" width="100%"/>
+<img src="https://komarev.com/ghpvc/?username=trpzz5&label=PROFILE%20VIEWS&color=00AEEF&style=for-the-badge"/>
 
 </div>
