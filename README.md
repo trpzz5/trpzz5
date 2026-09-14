@@ -49,31 +49,11 @@
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 
-</div>
-
----
-
-<div align="center">
-
-# 📈 Statistics
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=trpzz5&bg_color=0d1117&color=9ecbff&line=79c0ff&point=ffffff&area=true&hide_border=false&custom_title=Tejas%20Poojary%27s%20Contribution%20Graph" width="95%" alt="Tejas Poojary's Contribution Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-# 👨‍💻 About Me
-
-</div>
-
 <table>
 <tr>
 <td width="43%" align="center" valign="middle">
 
-<img src="./assets/about-me-toon.jpeg" width="330" alt="Tejas Poojary Toon Avatar" />
+<img src="./assets/about-me-toon.png" width="330" alt="Tejas Poojary Toon Avatar" />
 
 </td>
 <td width="57%" valign="middle">
