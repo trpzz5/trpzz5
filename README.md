@@ -70,54 +70,41 @@
 
 <div align="center">
 
-<!-- ========================================================= -->
-<!--                         ABOUT ME                           -->
-<!-- ========================================================= -->
+## 👨‍💻 About Me
 
-<h2 align="center">👨‍💻 About Me</h2>
+<div align="center">
 
-<hr>
+<img
+  src="./assets/about-me-toon.png"
+  alt="Tejas Poojary Toon Avatar"
+  width="380"
+  align="left"
+/>
 
-<table align="center">
-<tr>
-<td width="40%" align="center">
+<h3>👋 Hey, I'm <strong>Tejas Poojary!</strong></h3>
 
-<img src="./assets/about-me-toonbg.png"
-     width="260"
-     alt="Tejas Poojary Toon Avatar"/>
+<p>
+I am a <strong>VLSI Engineering student</strong> passionate about building things at the
+intersection of <strong>hardware, AI, and code.</strong>
+</p>
 
-</td>
-
-<td width="60%">
-
-### 👋 Hey, I'm Tejas Poojary!
-
-I am a **VLSI Engineering student** passionate about building things at the intersection of **hardware, AI, and code**.
-
-- ⚡ Designing digital systems & embedded hardware
-- 🤖 Building intelligent robots & IoT systems
-- 🧠 Exploring AI/ML and Edge Intelligence
-- 💻 Coding with Verilog, Python & C/C++
-- 🔧 Turning ideas → prototypes → working systems
+<p align="left">
+⚡ &nbsp; Designing digital systems & embedded hardware<br><br>
+🤖 &nbsp; Building intelligent robots & IoT systems<br><br>
+🧠 &nbsp; Exploring AI/ML and Edge Intelligence<br><br>
+💻 &nbsp; Coding with Verilog, Python & C/C++<br><br>
+🔧 &nbsp; Turning ideas → prototypes → working systems
+</p>
 
 <br>
 
-> **Learn. Build. Break. Improve. Repeat.**
+<blockquote>
+<strong>Learn. Build. Break. Improve. Repeat.</strong>
+</blockquote>
 
-</td>
-</tr>
-</table>
+</div>
 
-# 🎯 Hobbies & Goals
-
-<br>
-
-### ⚡ VLSI Engineering &nbsp;•&nbsp; 🤖 Embedded Systems &nbsp;•&nbsp; 🧠 AI/ML &nbsp;•&nbsp; 🦾 Robotics
-
-<br>
-
-> *Turning ideas into real-world systems.*
-
+<br clear="left">
 <br>
 
 ### ⚡ Hardware × AI × Code = Possibilities
