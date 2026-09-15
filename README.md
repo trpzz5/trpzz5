@@ -51,11 +51,6 @@
 <img src="https://img.shields.io/badge/GIT-162033?style=for-the-badge&logo=git&logoColor=F05032"/><br><br>
 </div>
 
----
-
-<div align="center">
-  
-## About Me
 
 ---
 
