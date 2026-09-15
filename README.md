@@ -57,7 +57,13 @@
   
 ## About Me
 
+---
+
 <div align="center">
+  
+## About Me
+
+<br>
 
 <img
   src="./assets/about-me-toonbg.png"
@@ -66,25 +72,27 @@
   align="left"
 />
 
-<h3 align="center">Hey, I'm <strong>Tejas Poojary!</strong></h3>
+<h3>Hey, I'm <strong>Tejas Poojary!</strong></h3>
 
-<p align="center">
+<p>
 I am a <strong>VLSI Engineering student</strong> passionate about building things at the intersection of <strong>hardware, AI, and code.</strong>
- Designing digital systems & embedded hardware, I enjoy working with PytHon, ESP32, Robotics & IoT systems,
- exploring AI/ML and Edge Intelligence, I'm constantly learning, experimenting and building projects that<br>    combine hardware and intelligent software to solve practical problems<br>
-  Ideas → prototypes → working systems.
+I enjoy designing digital systems & embedded hardware, working with Python, ESP32, Robotics & IoT systems, and exploring AI/ML and Edge Intelligence.
+I'm constantly learning, experimenting, and building projects that combine hardware and intelligent software to solve practical problems.
+Ideas → prototypes → working systems.
 </p>
 
-<p align="center">
+<p>
 <strong>Learn. Build. Break. Improve. Repeat.</strong>
 </p>
 
-</div>
-
 <br clear="left">
+
 <br>
 
-### ⚡ Hardware × AI × Code = Possibilities
+</div>
+
+<br>
+<br>
 
 </div>
 
@@ -116,3 +124,14 @@ I am a <strong>VLSI Engineering student</strong> passionate about building thing
 <img src="https://komarev.com/ghpvc/?username=trpzz5&label=PROFILE%20VIEWS&color=00AEEF&style=for-the-badge"/>
 
 </div>
+
+<br clear="left">
+
+<br>
+
+### Hardware × AI × Code = Possibilities
+
+</div>
+
+<br>
+<br>
