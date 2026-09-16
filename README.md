@@ -72,7 +72,7 @@
 <p>
 I am a <strong>VLSI Engineering student</strong> passionate about building things at the intersection of <strong>hardware, AI, and code.</strong>
 I enjoy designing digital systems & embedded hardware, working with Python, ESP32, Robotics & IoT systems, and exploring AI/ML and Edge Intelligence.
-I'm constantly learning, experimenting, and building projects that combine hardware and intelligent software to solve practical problems.
+I'm constantly learning, experimenting, and building projects that combine hardware and intelligent software to solve practical problems.<br>
 Ideas → prototypes → working systems.
 </p>
 
